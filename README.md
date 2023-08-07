@@ -2,7 +2,7 @@
 
 A Bitcoin Ticker Flutter project.
 
-## Getting Started
+## Description
 
 I created a crypto currency price checking app.More than 20 cyrpto currencies are avaliable in this app. The API i integrated in this app is from [Coin](https://www.coinapi.io/)
 Throught this app, you'll be able to monitor your bitcoin investents on the move!
